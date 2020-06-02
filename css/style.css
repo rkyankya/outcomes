@@ -42,6 +42,68 @@ h5,
   font-family: "Oswald", sans-serif;
 }
 
+/* Request Form */
+
+.request-form {
+	background-color: #ff5e15;
+	padding: 40px 0px;
+	color: #fff;
+}
+
+.request-form h4 {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.request-form span {
+	font-size: 15px;
+	font-weight: 400;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.request-form a.border-button {
+	margin-top: 12px;
+	float: right;
+}
+
+
+/* Contact Information */
+
+.contact-information {
+	margin-top: 140px;
+}
+
+.contact-information .contact-item {
+	padding: 60px 30px;
+	background-color: #f7f7f7;
+	text-align: center;
+}
+
+.contact-information .contact-item i {
+	color: #ff5e15;
+	font-size: 48px;
+	margin-bottom: 40px;
+}
+
+.contact-information .contact-item h4 {
+	font-size: 20px;
+	font-weight: 700;
+	letter-spacing: 0.25px;
+	margin-bottom: 15px;
+}
+
+.contact-information .contact-item p {
+	margin-bottom: 20px;
+}
+
+.contact-information .contact-item a {
+	font-weight: 600;
+	color: #ff5e15;
+	font-size: 15px;
+}
+
+
 .border-2 {
   border-width: 2px;
 }
